@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Animoxiln
+- 👋 Hi, I’m @Animoxiln(Joydip Ram)
 - 👀 I’m interested in cybersecurity devopps and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
