@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity devopps and data science
 - 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me with my linkdin:- https://www.linkedin.com/in/joydip-ram-a85853266
+- 📫 How to reach me with my linkdin:- https://www.linkedin.com/in/joydip-ram/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
